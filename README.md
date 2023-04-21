@@ -1,4 +1,4 @@
--- Set the scanline opacity (0 to 1)
+
 local scanline_opacity = 0.5
 
 function _init()
