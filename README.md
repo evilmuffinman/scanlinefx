@@ -19,6 +19,6 @@ function custom_draw()
             end
         end
     end
-end# scanlinefx
-Pico8 scan line fx script to add to any cart.
+end
+
 
